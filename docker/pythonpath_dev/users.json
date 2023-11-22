@@ -1,0 +1,38 @@
+[
+    {
+        "token": "a",
+        "user_info": {
+            "username": "MrTest",
+            "first_name": "Test",
+            "last_name": "User",
+            "email": "mrtest@example.com"
+        }
+    },
+    {
+        "token": "b",
+        "user_info": {
+            "username": "admin",
+            "first_name": "Superset",
+            "last_name": "Admin",
+            "email": "admin@superset.com"
+        }
+    },
+    {
+        "token": "c",
+        "user_info": {
+            "username": "ServiceUser",
+            "first_name": "Service",
+            "last_name": "User",
+            "email": "service@example.com"
+        }
+    },
+    {
+        "token": "d",
+        "user_info": {
+            "username": "username",
+            "first_name": "fname",
+            "last_name": "lname",
+            "email": "email"
+        }
+    }
+]
